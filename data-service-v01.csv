@@ -1,0 +1,157 @@
+﻿Suburb,Area,Frequency,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SD01,SD02,SD03,SD04,SD05,SD06,SD07,SD08,SD09,SD10,SD11,SD12,SD13,SD14,SD15,SD16,SD17,SD18,SD19,SD20,SD21,SD22,SD23
+Albany,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Ashhurst,Palmerston,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Auckland Airport,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Auckland Cbd,Auckland,Weekly,FALSE,TRUE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Avondale,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Beachlands,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Brooklyn,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Bulls,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,6.09.22,20.09.22,4.10.22,18.10.22,1.11.22,15.11.22,29.11.22,13.12.22,27.12.22,10.01.23,24.01.23,7.02.23,21.02.23,7.03.23,21.03.23,4.04.23,18.04.23,2.05.23,16.05.23,30.05.23,13.06.23,27.06.23,11.07.23
+Cambridge,Waikato/Hamilton,Fortnightly ,FALSE,TRUE,FALSE,FALSE,FALSE,16.08.22,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23
+Carterton,Wellington,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE,24.08.22,7.09.22,21.09.22,5.10.22,19.10.22,2.11.22,16.11.22,30.11.22,14.12.22,28.12.22,11.01.23,25.01.23,8.02.23,22.02.23,8.03.23,22.03.23,5.04.23,19.04.23,3.05.23,17.05.23,31.05.23,14.06.23,28.06.23
+Chartwell,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+City Centre,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Clive,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,16.08.22,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23
+Courtney Place,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Dannevirke,Wellington,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,23.08.22,6.09.22,20.09.22,4.10.22,18.10.22,1.11.22,15.11.22,29.11.22,13.12.22,27.12.22,10.01.23,24.01.23,7.02.23,21.02.23,7.03.23,21.03.23,4.04.23,18.04.23,2.05.23,16.05.23,30.05.23,13.06.23,27.06.23
+Davenport,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+East Tamaki,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Eastbourne,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Eltham,Palmerston,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Eltham,Palmerston,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Epsom,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Featherston,Wellington,4 Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,24.08.22,21.09.22,5.10.22,19.10.22,2.11.22,16.11.22,30.11.22,14.12.22,28.12.22,11.01.23,25.01.23,8.02.23,22.02.23,8.03.23,22.03.23,5.04.23,19.04.23,3.05.23,17.05.23,31.05.23,14.06.23,28.06.23,12.07.23
+Feilding,Palmerston,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Flat Bush,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Foxton,Palmerston,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Frankton,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Glen Innes,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Glenbrook,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Glenfield,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Grafton,Auckland,Weekly,FALSE,TRUE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Greenmeadows,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,16.08.22,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23
+Haitatai,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Hamilton,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Hastings,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23,4.07.23
+Havelock North,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23,4.07.23
+Hawera,Palmerston,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE,17.08.22,31.08.22,14.09.22,28.09.22,12.10.22,26.10.22,9.11.22,23.11.22,7.12.22,21.12.22,4.01.23,18.01.23,1.02.23,15.02.23,1.03.23,15.03.23,29.03.23,12.04.23,26.04.23,10.05.23,24.05.23,7.06.23,21.06.23
+Hawkes Bay,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23,4.07.23
+Helensville,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Henderson,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Hillsborough,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Hobsonville,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Horowhenua,Palmerston,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Howick,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Huntly,Waikato/Hamilton,4-weekly,FALSE,FALSE,FALSE,TRUE,FALSE,18.08.22,15.09.22,13.10.22,10.11.22,8.12.22,5.01.23,2.02.23,2.03.23,30.03.23,27.04.23,25.05.23,22.06.23,20.07.23,17.08.23,14.09.23,12.10.23,9.11.23,7.12.23,4.01.24,1.02.24,29.02.24,28.03.24,25.04.24
+Island Bay,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Johnsonville,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Kapiti Coast,Wellington,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Karaka,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Karori,Wellington,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,23.08.22,6.09.22,20.09.22,4.10.22,18.10.22,1.11.22,15.11.22,29.11.22,13.12.22,27.12.22,10.01.23,24.01.23,7.02.23,21.02.23,7.03.23,21.03.23,4.04.23,18.04.23,2.05.23,16.05.23,30.05.23,13.06.23,27.06.23
+Kawerau,Waikato/Hamilton,4-Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,25.08.22,22.09.22,20.10.22,17.11.22,15.12.22,12.01.23,9.02.23,9.03.23,6.04.23,4.05.23,1.06.23,29.06.23,27.07.23,24.08.23,21.09.23,19.10.23,16.11.23,14.12.23,11.01.24,8.02.24,7.03.24,4.04.24,2.05.24
+Kelburn,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Kelston,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Kilbirnie,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Kumeu,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Leamington,Waikato/Hamilton,Fortnightly ,FALSE,TRUE,FALSE,FALSE,FALSE,16.08.22,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23
+Levin,Palmerston,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Linden,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Lower Hutt,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Mangere,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Manukau,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Manurewa,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Martinborough,Wellington,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE,24.08.22,7.09.22,21.09.22,5.10.22,19.10.22,2.11.22,16.11.22,30.11.22,14.12.22,28.12.22,11.01.23,25.01.23,8.02.23,22.02.23,8.03.23,22.03.23,5.04.23,19.04.23,3.05.23,17.05.23,31.05.23,14.06.23,28.06.23
+Marton,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,6.09.22,20.09.22,4.10.22,18.10.22,1.11.22,15.11.22,29.11.22,13.12.22,27.12.22,10.01.23,24.01.23,7.02.23,21.02.23,7.03.23,21.03.23,4.04.23,18.04.23,2.05.23,16.05.23,30.05.23,13.06.23,27.06.23,11.07.23
+Massey University,Palmerston,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Masterton,Wellington,Fortnightly ,FALSE,FALSE,TRUE,FALSE,FALSE,24.08.22,7.09.22,21.09.22,5.10.22,19.10.22,2.11.22,16.11.22,30.11.22,14.12.22,28.12.22,11.01.23,25.01.23,8.02.23,22.02.23,8.03.23,22.03.23,5.04.23,19.04.23,3.05.23,17.05.23,31.05.23,14.06.23,28.06.23
+Matamata,Waikato/Hamilton,Fortnightly ,FALSE,TRUE,FALSE,FALSE,FALSE,16.08.22,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23
+Maungaraki,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Miramar,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Mission Bay,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Morrinsville,Waikato/Hamilton,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Mount Eden,Auckland,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Mount Wellington,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Mt Albert,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Mt Roskill,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Naenae,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Napier Area,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23,4.07.23
+New Plymouth,Palmerston,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Newlands,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Newmarket,Auckland,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Newstead,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Newtown,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Ngaruawahia,Auckland,4 Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,18.08.22,15.09.22,29.09.22,13.10.22,27.10.22,10.11.22,24.11.22,8.12.22,22.12.22,5.01.23,19.01.23,2.02.23,16.02.23,2.03.23,16.03.23,30.03.23,13.04.23,27.04.23,11.05.23,25.05.23,8.06.23,22.06.23,6.07.23
+Northland,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Northshore,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Oakura,Palmerston,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Ohakea,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,23.08.22,6.09.22,20.09.22,4.10.22,18.10.22,1.11.22,15.11.22,29.11.22,13.12.22,27.12.22,10.01.23,24.01.23,7.02.23,21.02.23,7.03.23,21.03.23,4.04.23,18.04.23,2.05.23,16.05.23,30.05.23,13.06.23,27.06.23
+Onslow,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Opunake,Palmerston,8 Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,24.08.22,19.10.22,14.12.22,8.02.23,5.04.23,31.05.23,26.07.23,20.09.23,15.11.23,10.01.24,6.03.24,1.05.24,26.06.24,21.08.24,16.10.24,11.12.24,5.02.25,2.04.25,28.05.25,23.07.25,17.09.25,12.11.25,7.01.26
+Orewa,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Otahuhu,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Otaki,Wellington,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Otara,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Pahiatua,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Palmerston North,Palmerston,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Palmerston North Hospital,Palmerston,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Panmure,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Papakura,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Papatoetoe,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Paraparaumu,Wellington,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Paremata,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Patea,Palmerston,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE,24.08.22,19.10.22,14.12.22,8.02.23,5.04.23,31.05.23,26.07.23,20.09.23,15.11.23,10.01.24,6.03.24,1.05.24,26.06.24,21.08.24,16.10.24,11.12.24,5.02.25,2.04.25,28.05.25,23.07.25,17.09.25,12.11.25,7.01.26
+Petone,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Pokeno,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Pomare,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Porirua,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Pukekohe,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Putaruru,Waikato/Hamilton,Fortnightly ,FALSE,TRUE,FALSE,FALSE,FALSE,16.08.22,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23
+Queenwood,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Remuera,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Rotorua,Waikato/Hamilton,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Rototuna,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Ruakura,Waikato/Hamilton,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Sandringham,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Seatoun,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Shannon,Palmerston,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Silverdale,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Snells Beach,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Stanmore Bay,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Stokes Valley,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Stratford,Palmerston,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE,24.08.22,7.09.22,21.09.22,5.10.22,19.10.22,2.11.22,16.11.22,30.11.22,14.12.22,28.12.22,11.01.23,25.01.23,8.02.23,22.02.23,8.03.23,22.03.23,5.04.23,19.04.23,3.05.23,17.05.23,31.05.23,14.06.23,28.06.23
+Taita,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Takanini,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Taupo,Waikato/Hamilton,4-Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,25.08.22,22.09.22,29.09.22,6.10.22,13.10.22,20.10.22,27.10.22,3.11.22,10.11.22,17.11.22,24.11.22,1.12.22,8.12.22,15.12.22,22.12.22,29.12.22,5.01.23,12.01.23,19.01.23,26.01.23,2.02.23,9.02.23,16.02.23
+Tawa,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Te Awamutu,Waikato/Hamilton,Fortnightly,FALSE,FALSE,FALSE,TRUE,FALSE,18.08.22,1.09.22,15.09.22,29.09.22,13.10.22,27.10.22,10.11.22,24.11.22,8.12.22,22.12.22,5.01.23,19.01.23,2.02.23,16.02.23,2.03.23,16.03.23,30.03.23,13.04.23,27.04.23,11.05.23,25.05.23,8.06.23,22.06.23
+Te Kauwhata,Waikato/Hamilton,4-weekly,FALSE,FALSE,FALSE,TRUE,FALSE,18.08.22,15.09.22,13.10.22,10.11.22,8.12.22,5.01.23,2.02.23,2.03.23,30.03.23,27.04.23,25.05.23,22.06.23,20.07.23,17.08.23,14.09.23,12.10.23,9.11.23,7.12.23,4.01.24,1.02.24,29.02.24,28.03.24,25.04.24
+Te Kuiti,Waikato/Hamilton,4-Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,25.08.22,22.09.22,29.09.22,6.10.22,13.10.22,20.10.22,27.10.22,3.11.22,10.11.22,17.11.22,24.11.22,1.12.22,8.12.22,15.12.22,22.12.22,29.12.22,5.01.23,12.01.23,19.01.23,26.01.23,2.02.23,9.02.23,16.02.23
+Te Puke,Waikato/Hamilton,4-Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,17.08.22,14.09.22,12.10.22,9.11.22,7.12.22,4.01.23,1.02.23,1.03.23,29.03.23,26.04.23,24.05.23,21.06.23,19.07.23,16.08.23,13.09.23,11.10.23,8.11.23,6.12.23,3.01.24,31.01.24,28.02.24,27.03.24,24.04.24
+Te Rapa,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+The Terrace,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Titahi Bay,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Trentham,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Tuakau,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Upper Hutt,Wellington,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Victoria University,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Wadestown,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Waikanae,Wellington,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Waipawa,Palmerston,4 Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,16.08.22,13.09.22,11.10.22,8.11.22,6.12.22,3.01.23,31.01.23,28.02.23,28.03.23,25.04.23,23.05.23,20.06.23,18.07.23,15.08.23,12.09.23,10.10.23,7.11.23,5.12.23,2.01.24,30.01.24,27.02.24,26.03.24,23.04.24
+Waipawa,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23,4.07.23
+Waipukurau,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE,30.08.22,13.09.22,27.09.22,11.10.22,25.10.22,8.11.22,22.11.22,6.12.22,20.12.22,3.01.23,17.01.23,31.01.23,14.02.23,28.02.23,14.03.23,28.03.23,11.04.23,25.04.23,9.05.23,23.05.23,6.06.23,20.06.23,4.07.23
+Wairarapa,Wellington,Fortnightly ,FALSE,FALSE,TRUE,FALSE,FALSE,24.08.22,7.09.22,21.09.22,5.10.22,19.10.22,2.11.22,16.11.22,30.11.22,14.12.22,28.12.22,11.01.23,25.01.23,8.02.23,22.02.23,8.03.23,22.03.23,5.04.23,19.04.23,3.05.23,17.05.23,31.05.23,14.06.23,28.06.23
+Waitakere,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Waitara,Palmerston,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Waiuku,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Warkworth,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Waterview ,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Wellington Central,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,,,,,,,
+Wellington Hospital,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Wellsford,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Whakatane,Waikato/Hamilton,4-Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,17.08.22,14.09.22,12.10.22,9.11.22,7.12.22,4.01.23,1.02.23,1.03.23,29.03.23,26.04.23,24.05.23,21.06.23,19.07.23,16.08.23,13.09.23,11.10.23,8.11.23,6.12.23,3.01.24,31.01.24,28.02.24,27.03.24,24.04.24
+Whanganui,Palmerston,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE,23.08.22,6.09.22,20.09.22,4.10.22,18.10.22,1.11.22,15.11.22,29.11.22,13.12.22,27.12.22,10.01.23,24.01.23,7.02.23,21.02.23,7.03.23,21.03.23,4.04.23,18.04.23,2.05.23,16.05.23,30.05.23,13.06.23,27.06.23
+Whenuapai,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Whitby,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Whitford,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Wiri,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
+Woodville,Palmerston,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,,,,,,,
