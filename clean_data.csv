@@ -1,0 +1,157 @@
+﻿Suburb,Area,Frequency,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY
+Albany,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Ashhurst,Palmerston,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Auckland Airport,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Auckland Cbd,Auckland,Weekly,FALSE,TRUE,FALSE,TRUE,FALSE
+Avondale,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Beachlands,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Brooklyn,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Bulls,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Cambridge,Waikato/Hamilton,Fortnightly ,FALSE,TRUE,FALSE,FALSE,FALSE
+Carterton,Wellington,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE
+Chartwell,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+City Centre,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Clive,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Courtney Place,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Dannevirke,Wellington,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Davenport,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+East Tamaki,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Eastbourne,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Eltham,Palmerston,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Eltham,Palmerston,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Epsom,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Featherston,Wellington,4 Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Feilding,Palmerston,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Flat Bush,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Foxton,Palmerston,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Frankton,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Glen Innes,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Glenbrook,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Glenfield,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Grafton,Auckland,Weekly,FALSE,TRUE,FALSE,TRUE,FALSE
+Greenmeadows,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Haitatai,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Hamilton,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Hastings,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Havelock North,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Hawera,Palmerston,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE
+Hawkes Bay,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Helensville,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Henderson,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Hillsborough,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Hobsonville,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Horowhenua,Palmerston,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Howick,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Huntly,Waikato/Hamilton,4-weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Island Bay,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Johnsonville,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Kapiti Coast,Wellington,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Karaka,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Karori,Wellington,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Kawerau,Waikato/Hamilton,4-Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Kelburn,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Kelston,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Kilbirnie,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Kumeu,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Leamington,Waikato/Hamilton,Fortnightly ,FALSE,TRUE,FALSE,FALSE,FALSE
+Levin,Palmerston,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Linden,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Lower Hutt,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Mangere,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Manukau,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Manurewa,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Martinborough,Wellington,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE
+Marton,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Massey University,Palmerston,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Masterton,Wellington,Fortnightly ,FALSE,FALSE,TRUE,FALSE,FALSE
+Matamata,Waikato/Hamilton,Fortnightly ,FALSE,TRUE,FALSE,FALSE,FALSE
+Maungaraki,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Miramar,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Mission Bay,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Morrinsville,Waikato/Hamilton,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Mount Eden,Auckland,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Mount Wellington,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Mt Albert,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Mt Roskill,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Naenae,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Napier Area,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+New Plymouth,Palmerston,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Newlands,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Newmarket,Auckland,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Newstead,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Newtown,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Ngaruawahia,Auckland,4 Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Northland,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Northshore,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Oakura,Palmerston,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Ohakea,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Onslow,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Opunake,Palmerston,8 Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Orewa,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Otahuhu,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Otaki,Wellington,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Otara,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Pahiatua,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Palmerston North,Palmerston,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Palmerston North Hospital,Palmerston,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Panmure,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Papakura,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Papatoetoe,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Paraparaumu,Wellington,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Paremata,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Patea,Palmerston,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE
+Petone,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Pokeno,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Pomare,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Porirua,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Pukekohe,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Putaruru,Waikato/Hamilton,Fortnightly ,FALSE,TRUE,FALSE,FALSE,FALSE
+Queenwood,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Remuera,Auckland,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Rotorua,Waikato/Hamilton,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Rototuna,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Ruakura,Waikato/Hamilton,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Sandringham,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Seatoun,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Shannon,Palmerston,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Silverdale,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Snells Beach,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Stanmore Bay,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Stokes Valley,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Stratford,Palmerston,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE
+Taita,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Takanini,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Taupo,Waikato/Hamilton,4-Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Tawa,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Te Awamutu,Waikato/Hamilton,Fortnightly,FALSE,FALSE,FALSE,TRUE,FALSE
+Te Kauwhata,Waikato/Hamilton,4-weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Te Kuiti,Waikato/Hamilton,4-Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Te Puke,Waikato/Hamilton,4-Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Te Rapa,Waikato/Hamilton,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+The Terrace,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Titahi Bay,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Trentham,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Tuakau,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Upper Hutt,Wellington,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Victoria University,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Wadestown,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Waikanae,Wellington,Weekly,FALSE,FALSE,FALSE,FALSE,TRUE
+Waipawa,Palmerston,4 Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Waipawa,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Waipukurau,Palmerston,Fortnightly,FALSE,TRUE,FALSE,FALSE,FALSE
+Wairarapa,Wellington,Fortnightly ,FALSE,FALSE,TRUE,FALSE,FALSE
+Waitakere,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Waitara,Palmerston,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Waiuku,Auckland,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Warkworth,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Waterview ,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Wellington Central,Wellington,Weekly,TRUE,FALSE,FALSE,FALSE,TRUE
+Wellington Hospital,Wellington,Weekly,FALSE,FALSE,FALSE,TRUE,FALSE
+Wellsford,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Whakatane,Waikato/Hamilton,4-Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Whanganui,Palmerston,Fortnightly,FALSE,FALSE,TRUE,FALSE,FALSE
+Whenuapai,Auckland,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE
+Whitby,Wellington,Weekly,FALSE,TRUE,FALSE,FALSE,FALSE
+Whitford,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Wiri,Auckland,Weekly,FALSE,FALSE,TRUE,FALSE,FALSE
+Woodville,Palmerston,Weekly,TRUE,FALSE,FALSE,FALSE,FALSE

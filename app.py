@@ -5,13 +5,15 @@ st.set_page_config(page_title = "Interwaste",
 				   page_icon = ":bar_chart:",
 				   layout = "centered")
 
-df = pd.read_excel(
-	io = 'data.xlsx',
-	engine = 'openpyxl',
-	sheet_name = 'Summary LN&MG Areas',
-	usecols = 'A:M',
-	nrows = 157,
-	)
+# df = pd.read_excel(
+	# io = 'data.xlsx',
+	# engine = 'openpyxl',
+	# sheet_name = 'Summary LN&MG Areas',
+	# usecols = 'A:M',
+	# nrows = 157,
+	# )
+
+df = pd.read_csv('clean_data.csv')
 
 # st.dataframe(df)
 
