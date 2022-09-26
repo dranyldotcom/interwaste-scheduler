@@ -13,7 +13,7 @@ st.set_page_config(page_title = "Interwaste",
 	# nrows = 157,
 	# )
 
-df = pd.read_csv('clean_data.csv')
+df = pd.read_csv('data-service-v01.csv')
 
 # st.dataframe(df)
 
@@ -36,6 +36,10 @@ thu = 'Thursday' if df_selected['THURSDAY'].tolist()[0] else ''
 fri = 'Friday' if df_selected['FRIDAY'].tolist()[0] else ''
 frequency = df_selected['Frequency'].tolist()[0]
 
+cols = [8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30]
+sd_by_cols = df_selected[df_selected.columns[cols]]
+sd_by_cols_to_list = sd_by_cols.values.tolist()
+
 day_of_the_week = "Day of the week: " + mon + " " + tue + " " + wed + " " + thu + " " + fri
 	# 'Area',
 	# 'MONDAY',
@@ -50,3 +54,9 @@ st.write('Area: ', area)
 # st.write('Day of the week: ', mon, tue, wed, thu, fri)
 st.write(day_of_the_week)
 st.write('Frequency: ', frequency)
+# st.write(sd_by_cols["SD01"])
+st.write('Next Service: ', sd_by_cols_to_list)
+
+# if sd_by_cols[sd_by_cols["SD01"].isnull().any()]:
+	# print(sd_by_cols["SD01"])	
+	# st.write('Next Service: ', sd_by_cols["SD01"])
