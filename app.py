@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+import datetime
 
 st.set_page_config(page_title = "Interwaste",
 				   page_icon = ":bar_chart:",
@@ -16,6 +17,7 @@ st.set_page_config(page_title = "Interwaste",
 df = pd.read_csv('data-service-v01.csv')
 
 # st.dataframe(df)
+df = df.fillna("")
 
 suburb = st.selectbox(
 	'Select Area',
@@ -55,8 +57,19 @@ st.write('Area: ', area)
 st.write(day_of_the_week)
 st.write('Frequency: ', frequency)
 # st.write(sd_by_cols["SD01"])
-st.write('Next Service: ', sd_by_cols_to_list)
 
-# if sd_by_cols[sd_by_cols["SD01"].isnull().any()]:
-	# print(sd_by_cols["SD01"])	
-	# st.write('Next Service: ', sd_by_cols["SD01"])
+# for x in sd_by_cols_to_list:
+	# st.write(x)
+
+# if sd_by_cols_to_list[0]
+today = datetime.datetime.now()
+
+if sd_by_cols_to_list[0][0] != "":
+	for x in sd_by_cols_to_list[0]:
+		d=datetime.datetime.strptime(x, '%Y-%m-%d')
+		if d > today:
+			st.write('Next Service')
+			st.write(d)
+			break;
+
+
