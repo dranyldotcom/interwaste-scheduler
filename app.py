@@ -2,6 +2,10 @@ import pandas as pd
 import streamlit as st
 import datetime
 
+def nextDate(d):
+     st.markdown(f'<p style="color:#0066cc;font-size:24px;border-radius:2%;">Next Service: {d}</p>', unsafe_allow_html=True)
+
+
 st.set_page_config(page_title = "Interwaste",
 				   page_icon = ":bar_chart:",
 				   layout = "centered")
@@ -68,8 +72,9 @@ if sd_by_cols_to_list[0][0] != "":
 	for x in sd_by_cols_to_list[0]:
 		d=datetime.datetime.strptime(x, '%Y-%m-%d')
 		if d > today:
-			st.write('Next Service')
-			st.write(d)
+			c=d.strftime('%A %d-%m-%Y')
+			nextDate(c)
+			# st.write('Next Service', c)
 			break;
 
 
