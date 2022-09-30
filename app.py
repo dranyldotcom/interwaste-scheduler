@@ -3,7 +3,7 @@ import streamlit as st
 import datetime
 
 def nextDate(d):
-     st.markdown(f'<p style="color:#0066cc;font-size:24px;border-radius:2%;">Next Service: {d}</p>', unsafe_allow_html=True)
+     st.markdown(f'<p style="color:#0066cc;font-size:16px;border-radius:2%;">Next Service: {d}</p>', unsafe_allow_html=True)
 
 
 st.set_page_config(page_title = "Interwaste",
